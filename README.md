@@ -23,7 +23,6 @@ Netflix-Clone/index.html,style.css
 - HTML5
 - CSS3
 - VS Code
-- Git & GitHub
 
 ## 🙌 Inspiration
 
@@ -32,6 +31,6 @@ Inspired by the original [Netflix UI](https://www.netflix.com) to practice front
 ## 📬 Contact
 
 Made with ❤️ by [Omkar Sharma](https://github.com/Omkar3101).  
-Feel free to connect [linkedin](https://www.linkedin.com/in/omkar3101/) or ask questions!
+Feel free to connect [Linkedin](https://www.linkedin.com/in/omkar3101/) or ask questions!
 
 
