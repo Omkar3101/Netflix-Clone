@@ -15,7 +15,7 @@ This project replicates the homepage of Netflix and gives a feel of a real strea
 Netflix-Clone/
 │
 ├── index.html
-├── style.css
+└── style.css
 
 ## 🌐 Live Demo
 
@@ -34,7 +34,7 @@ Inspired by the original [Netflix UI](https://www.netflix.com) to practice front
 
 ## 📬 Contact
 
-Made with ❤️ by [Omkar Sharma].  
+Made with ❤️ by [Omkar Sharma](https://github.com/Omkar3101).  
 Feel free to connect or ask questions!
 
 
