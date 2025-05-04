@@ -24,9 +24,19 @@ Netflix-Clone/index.html,style.css
 - CSS3
 - VS Code
 
+## 🧠 Future Improvements
+
+- Add JavaScript for interactivity
+- Improve mobile responsiveness
+- Add actual media content sections
+
 ## 🙌 Inspiration
 
 Inspired by the original [Netflix UI](https://www.netflix.com) to practice front-end development skills.
+
+## 📜 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
