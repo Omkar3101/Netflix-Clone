@@ -3,6 +3,7 @@
 A fully responsive and visually appealing **Netflix Clone** built using only **HTML and CSS**.  
 This project replicates the homepage of Netflix and gives a feel of a real streaming platform UI.
 
+
 ## 🚀 Features
 
 - Clean and modern Netflix-like UI
@@ -11,12 +12,15 @@ This project replicates the homepage of Netflix and gives a feel of a real strea
 - Interactive hover effects
 - HTML5 & CSS3 only – No JS used!
 
+
 ## 📁 Project Structure
 Netflix-Clone/index.html,style.css
+
 
 ## 🌐 Live Demo
 
 [Click here to view the live site](https://your-username.github.io/Netflix-Clone)
+
 
 ## 🛠️ Technologies Used
 
@@ -30,13 +34,16 @@ Netflix-Clone/index.html,style.css
 - Improve mobile responsiveness
 - Add actual media content sections
 
+
 ## 🙌 Inspiration
 
 Inspired by the original [Netflix UI](https://www.netflix.com) to practice front-end development skills.
 
+
 ## 📜 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 ## 📬 Contact
 
