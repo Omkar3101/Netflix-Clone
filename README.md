@@ -19,7 +19,7 @@ Netflix-Clone/index.html,style.css
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://your-username.github.io/Netflix-Clone)
+[Click here to view the live site](https://omkar3101.github.io/Netflix-Clone/)
 
 
 ## 🛠️ Technologies Used
