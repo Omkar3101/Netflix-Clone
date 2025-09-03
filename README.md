@@ -42,7 +42,7 @@ Inspired by the original [Netflix UI](https://www.netflix.com) to practice front
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Omkar3101/Netflix-Clone/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 
 ## 📬 Contact
